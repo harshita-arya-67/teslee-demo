@@ -1,0 +1,6 @@
+Docker is a essential tool designed to manage Container . 
+Docker is directly responsible for create, deploy, and run 
+applications based on containers  . 
+It was first released in 2013 is developed by Docker, Inc.
+
+
